@@ -1,0 +1,16 @@
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\WPFLocalizeExtension\binWPF\Debug\WPFLocalizeExtension.dll
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\WPFLocalizeExtension\binWPF\Debug\WPFLocalizeExtension.pdb
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\WPFLocalizeExtension\binWPF\Debug\XAMLMarkupExtensions.dll
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.dll
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.pdb
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\bin\Debug\WPFLocalizeExtension.dll
+C:\Users\Bernardo.Arcuri\Documents\Visual Studio 2013\Projects\MultiLanguageResx\bin\Debug\WPFLocalizeExtension.pdb
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\bin\Debug\WPFLocalizeExtension.dll
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\bin\Debug\WPFLocalizeExtension.pdb
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.dll
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.pdb
+E:\SimpleGiotto\bin\Debug\WPFLocalizeExtension.dll
+E:\SimpleGiotto\bin\Debug\WPFLocalizeExtension.pdb
+E:\SimpleGiotto\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.dll
+E:\SimpleGiotto\WPFLocalizeExtension\obj\Debug\WPFLocalizeExtension.pdb

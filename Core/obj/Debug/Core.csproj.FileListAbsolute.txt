@@ -1,0 +1,9 @@
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\bin\Debug\Core.dll
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\bin\Debug\Core.pdb
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\Core\obj\Debug\Core.dll
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\Core\obj\Debug\Core.pdb
+C:\Users\Bernardo.Arcuri\Desktop\Projects\SimpleGiotto\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\SimpleGiotto\bin\Debug\Core.dll
+E:\SimpleGiotto\bin\Debug\Core.pdb
+E:\SimpleGiotto\Core\obj\Debug\Core.dll
+E:\SimpleGiotto\Core\obj\Debug\Core.pdb

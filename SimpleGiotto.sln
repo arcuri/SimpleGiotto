@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGiotto", "SimpleGiotto\SimpleGiotto.csproj", "{F4BC0000-44FE-4336-8695-882D3235FFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLocalizeExtension", "WPFLocalizeExtension\WPFLocalizeExtension.csproj", "{E8C5B094-2CB4-4C26-87F0-351B03612179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplorerApp", "ExplorerApp\ExplorerApp.csproj", "{F43B13C1-ACDF-4CE3-B049-B305A530126C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4452ED64-93C1-4106-AA84-0A760C2D2B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4BC0000-44FE-4336-8695-882D3235FFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4BC0000-44FE-4336-8695-882D3235FFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4BC0000-44FE-4336-8695-882D3235FFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4BC0000-44FE-4336-8695-882D3235FFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C5B094-2CB4-4C26-87F0-351B03612179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C5B094-2CB4-4C26-87F0-351B03612179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C5B094-2CB4-4C26-87F0-351B03612179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C5B094-2CB4-4C26-87F0-351B03612179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43B13C1-ACDF-4CE3-B049-B305A530126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43B13C1-ACDF-4CE3-B049-B305A530126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43B13C1-ACDF-4CE3-B049-B305A530126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43B13C1-ACDF-4CE3-B049-B305A530126C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4452ED64-93C1-4106-AA84-0A760C2D2B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4452ED64-93C1-4106-AA84-0A760C2D2B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4452ED64-93C1-4106-AA84-0A760C2D2B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4452ED64-93C1-4106-AA84-0A760C2D2B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
